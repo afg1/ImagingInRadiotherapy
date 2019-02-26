@@ -27,3 +27,5 @@ Task 2:
 Task 3:   
 - Produce a histogram of the data. Play around with the number of bins until it looks nice. 
 - Try some of the other options like normalisation. Label your axes!
+
+**Remember** There is a python basics notebook in the folder above this one where you can get some more information, if you need it.
